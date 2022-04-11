@@ -6,10 +6,14 @@
   
 </p>
 <p>
-  Hello I am a new developer specializing in machine learning.<br/>
-  We are working on it based on Python DJango.<br/><br/>
-  I enjoy squash, Baduk and computer game. <br/>
-  My goal is to develop services that will make life easier.. ✨ <br/><br/>
+  <h3> Hello👋🏻 Welcome to My GitHub✨</h3> <br>
+  My Name is Elijah and I'm a Junior Developer. 👩🏻‍💻 <br>
+  I'm constantly trying to grow as a developer. 💻<br><br>
+  I know how to use Python and Django.<br><br>
+  My ultimate goal as a developer is...🌟<br>
+  To extinguish the inconvenience customers feel while using the service.👍🏻 <br><br>
+  I would appreciate it if you could support me to become a developer that I aim for.😆<br>
+  Thank you 🥰
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elijahrong&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijahrong&layout=compact&hide_border=true&theme=white)
