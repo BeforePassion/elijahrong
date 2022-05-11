@@ -16,7 +16,7 @@
   Thank you 🥰
 </p>
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elijahrong&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijahrong&layout=compact&hide_border=true&theme=white)
+   <img src="https://github-readme-stats.vercel.app/api?username=Elijahrong&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijahrong&layout=compact&hide_border=true&theme=white)
    
    ![](./profile-3d-contrib/profile-south-season-animate.svg)
  
