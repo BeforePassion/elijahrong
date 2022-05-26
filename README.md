@@ -19,7 +19,7 @@
 <br>
 <br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Elijahrong&show_icons=true&theme=highcontrast&count_private=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijahrong&layout=compact&hide_border=true&theme=highcontrast&langs_count=8) ![](./profile-3d-contrib/profile-south-season-animate.svg)
+  <img src="https://github-readme-stats.vercel.app/api?username=Elijahrong&show_icons=true&theme=highcontrast&count_private=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijahrong&layout=compact&theme=highcontrast&langs_count=8) ![](./profile-3d-contrib/profile-south-season-animate.svg)
 
  
  
