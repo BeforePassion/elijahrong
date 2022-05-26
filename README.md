@@ -16,9 +16,11 @@
   Thank you 🥰
 </p>
 
-   <img src="https://github-readme-stats.vercel.app/api?username=Elijahrong&hide=stars&show_icons=true&theme=dracula&count_private=true&line_height=32">   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijahrong&layout=compact&hide_border=true&theme=white)
-   
-   ![](./profile-3d-contrib/profile-south-season-animate.svg)
+<br>
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Elijahrong&show_icons=true&theme=highcontrast&count_private=true"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elijahrong&layout=compact&hide_border=true&theme=highcontrast&langs_count=8) ![](./profile-3d-contrib/profile-south-season-animate.svg)
+
  
  
 
@@ -38,7 +40,7 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 </div>
-</div>
+
  
  
  
